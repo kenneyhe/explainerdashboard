@@ -3,6 +3,8 @@
 ![https://anaconda.org/conda-forge/explainerdashboard/](https://anaconda.org/conda-forge/explainerdashboard/badges/version.svg)
 [![codecov](https://codecov.io/gh/oegedijk/explainerdashboard/branch/master/graph/badge.svg?token=0XU6HNEGBK)](undefined)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kenneyhe/explainerdashboard.git/HEAD?filepath=explainerdashboard)
+
 # explainerdashboard
 by: Oege Dijk
 
